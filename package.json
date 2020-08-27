@@ -1,6 +1,6 @@
 {
   "name": "mailfred",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A butler style chat bot for your site",
   "main": "index.js",
   "scripts": {
