@@ -1,0 +1,24 @@
+{
+  "name": "mailfred",
+  "version": "0.0.1",
+  "description": "A butler style chat bot for your site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcoletta/mailfred.git"
+  },
+  "keywords": [
+    "chatbot",
+    "mail",
+    "alfred"
+  ],
+  "author": "bcoletta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcoletta/mailfred/issues"
+  },
+  "homepage": "https://github.com/bcoletta/mailfred#readme"
+}
